@@ -1,0 +1,21 @@
+.left{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(13, 191, 197);
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-bottom: -3.8px;
+    left: 0;
+    margin-left: 0;
+    border-right: 0;
+   
+}
+.font1{
+    font-size: 20px;
+    color: white;
+    font-family: "黑体";
+    font-weight: bolder;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

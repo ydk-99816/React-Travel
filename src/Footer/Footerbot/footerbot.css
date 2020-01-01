@@ -1,0 +1,106 @@
+.frame{
+    margin:  0 -50px 0 -50px;
+    background-color: white;
+}
+.sharetop{
+    font-size: 25px;
+    margin:  8px 0 0 25px;
+}
+.menubar{
+    width: 1000px;
+    height: 50px;
+    border: 1px solid gray;
+    margin: 0 0 0 110px;
+}
+.menubarp{
+    float: left;
+    margin: 13px 0 0 0;
+    width: 80px;
+    height: 30px;
+    font-size: 14px;
+    text-align: center;
+}
+.A{
+    width: 100%;
+}
+.a{
+    margin: -40px 0 0 -10px;
+}
+.b{
+    margin: -40px 0 0 0;
+}
+.c{
+    margin: -40px 0 0 0;
+}
+.d{
+    margin: -40px 0 0 0;
+}
+.e{
+    margin: -40px 0 0 0;
+}
+.f{
+    margin: -40px 0 0 0;
+}
+.g{
+    margin: -40px 0 0 0;
+}
+.h{
+    margin: -40px 0 0 0;
+}
+.i{
+    margin: -40px 0 0 0;
+}
+.j{
+    margin: -40px 0 0 0;
+}
+.search{
+    height: 40px;
+    width: 200px;
+    margin:  -38px 0 0 770px;
+}
+.share{
+    margin-top: 40px;
+}
+.shareul{
+    height: 400px;
+}
+.share ul{
+    list-style: none;
+}
+.shareli{
+    height: 390px;
+    position: relative;
+    top: 1px;
+    padding: 25px 0 20px 65px;
+}
+.face{
+    height: 60px;
+}
+.face img{
+    margin: -18px 0 0 0;
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    border-radius: 50%;
+}
+.face h2{
+    margin: 0 0 0 50px;
+    font-size: 30px;
+}
+.outline{
+    margin: 0 0 0 70px;
+}
+.outline ul{
+    list-style: none;
+}
+.prospectus{
+    margin: 15px 0 0 -5px;
+    height: 215px;
+}
+.prospectus1{
+    float: left;
+    margin-left: 8px;
+}
+.bot{
+    text-align: center;
+}

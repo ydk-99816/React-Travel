@@ -1,0 +1,100 @@
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+.share{
+    height: 4000px;
+    margin: 10px 240px 0 240px;
+}
+.sharebody{
+    margin: 10px 50px 0 50px;
+}
+.sharebody ul{
+    list-style: none;
+}
+.sharebodytop{
+    height: 80px;
+}
+.shareface{
+    margin: 5px 5px 5px 5px;
+}
+.shareface img{
+    border-radius: 50%;
+}
+.shareface h1{
+    margin: -40px 0 0 100px;
+}
+.sharebodyA h2{
+    height: 55px;
+    font-size: 30px;
+    color: rgb(78, 83, 83);
+    margin: 15px 0 -5px 100px;
+    border-bottom: 2px solid gray; 
+    font-weight: 800;
+}
+.sharebodyA h3{
+    height: 50px;
+    font-size: 20px;
+    color: rgb(20, 20, 20);
+    font-weight: 800;
+    margin: 10px 0 0 100px;
+}
+.shareoutline{
+    width: 800px;
+    margin: 0 100px 0 100px;
+}
+.shareoutline p{
+    height: 20px;
+}
+.sharehappy{
+    width: 800px;
+    margin: 20px 100px 40px 100px;
+}
+.sharehappy1{
+    width: 800PX;
+    margin: 0 50px 0 0;
+}
+.sharehappy1 h5{
+    font-size: 16px;
+    height: 60px;
+    margin: 50px 0 20px 0;
+}
+.sharehappy1 li{
+    height: 570px;
+}
+.sharehappy1 h6{
+    font-size: 16px;
+    margin: -20px 0 0 0;
+}
+.shareone{
+    width: 800px;
+    height: 1400px;
+    margin: 20px 100px 20px 100px;
+}
+.shareone h6{
+    font-size: 20px;
+    font-weight: 800;
+    height: 60px;
+    margin: 50px 0 20px 0;
+
+}
+.shareone p{
+    color: rgb(23, 184, 233);
+    font-weight: 800;
+    font-size: 18px;
+    margin: -20px 0 0 0;
+}
+.shareone li{
+    height: 570px;
+}
+.shareone h5{
+    font-size: 16px;
+    height: 60px;
+    margin: -40px 0 20px 0;
+}
